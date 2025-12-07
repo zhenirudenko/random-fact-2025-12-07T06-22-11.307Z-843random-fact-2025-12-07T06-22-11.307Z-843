@@ -1,2 +1,5 @@
-# random-fact-2025-12-07T06-22-11.307Z-843random-fact-2025-12-07T06-22-11.307Z-843
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+The second best selling game of all time is Jenga. Jenga is a Swahili word, meaning "to build."
+
+*Generated on 2025-12-07T06:22:12.824Z*
